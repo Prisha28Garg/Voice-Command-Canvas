@@ -1,0 +1,25 @@
+body
+{
+	text-align: center;
+    font-family: cursive;
+    background-color: #ffb0c4;
+}
+
+canvas
+{
+	background-image: linear-gradient( #ff91cf,#b291ff);
+	border-radius: 20px;
+}
+
+button
+{
+    background-color: #b0b4ff;
+    color: white;
+}
+
+#footer
+{
+    background-color: #ffb0e2;
+    color: white;
+    font-size: 25px;
+}
